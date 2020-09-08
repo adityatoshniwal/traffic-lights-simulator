@@ -4,7 +4,8 @@
   "description": "Traffi lights demo with ReactJS",
   "main": "index.js",
   "scripts": {
-    "start": "yarn run webpack-dev-server --open"
+    "start": "yarn run webpack-dev-server --open",
+    "start:npm": "npm start webpack-dev-server --open"
   },
   "author": "Aditya Toshniwal",
   "license": "ISC",
